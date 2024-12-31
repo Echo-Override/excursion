@@ -1,0 +1,12 @@
+body {
+    background-color: black;  /* Setting background to black */
+    text-align: center; /* Aligning the text to the center */
+  }
+
+h1 {
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+  }
