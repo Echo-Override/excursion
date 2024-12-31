@@ -1,12 +1,39 @@
 body {
-    background-color: black;  /* Setting background to black */
-    text-align: center; /* Aligning the text to the center */
-  }
+  background-color: black;  /* Setting background to black */
+  color: white; /* Setting text color to white */
+  text-align: center; /* Aligning the text to the center */
+}
 
 h1 {
-    font-family: Verdana;
-    font-weight: normal;
-    font-size: 50px;
-    color: white;
-    text-align: center;
-  }
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+
+.download {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+.download:hover {
+  color: white;
+}
+
+p {
+  font-family: Verdana, sans-serif;
+  font-size: 21px;
+  color: gray;
+}
+
+h2 {
+  font-family: Verdana, sans-serif;
+  font-weight: 300;
+  font-size: 42px;
+}
+
+.footer {
+  color: gray;
+  text-align: right;
+}
