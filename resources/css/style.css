@@ -1,3 +1,4 @@
+/* Page-wide styles */
 body {
   background-color: black;  /* Setting background to black */
   color: white; /* Setting text color to white */
@@ -12,6 +13,7 @@ h1 {
   text-align: center;
 }
 
+/* Download Link Styles */
 .download {
   color: aquamarine;
   font-size: 16px;
